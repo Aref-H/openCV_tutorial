@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Project\New\Visual stadio\C++ language\opencv\Project1-opencv_tutorial\opencv_tutorial\opencv_tutorial\Source.cpp(9,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  opencv_tutorial.vcxproj -> E:\Project\New\Visual stadio\C++ language\opencv\Project1-opencv_tutorial\opencv_tutorial\x64\Debug\opencv_tutorial.exe
