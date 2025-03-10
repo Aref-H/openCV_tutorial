@@ -3,7 +3,7 @@
 
 
 // ****** Image ******
-
+/*
 #include "Header.h"
 
 void main() {
@@ -12,7 +12,7 @@ void main() {
 	imshow("Image", img);  // Func that will show the image that  is in our Mat
 	waitKey(0);  // Maiking infinate delay
 }
-
+*/
 
 
 // ****** Video ******
